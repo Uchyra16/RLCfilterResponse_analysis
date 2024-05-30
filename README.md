@@ -1,5 +1,6 @@
 ## Table of Contents
 - [Introduction](#Introduction)
+- [Theory](#Theory)
 - [SimulinkModel](#Simulink)
 - [BodePlots](#BodePlots)
 - [ComparsionOfPhase](#ComparsionOfPhase)
@@ -7,6 +8,8 @@
 # Introduction
 
 This university project aimed to analyze the response of an RLC filter. Using Simulink, I created a model containing the transfer function of a series RLC filter, applied various signals to the input, and analyzed the response using Matlab.
+
+# Theory
 
 * Filters in electronics are circuits that process electrical signals to isolate or block specific frequency bands. They allow signals of certain frequencies to pass while reducing signals of other frequencies. 
 
