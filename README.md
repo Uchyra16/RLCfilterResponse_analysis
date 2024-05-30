@@ -1,6 +1,6 @@
 ## Table of Contents
 - [Introduction](#Introduction)
-- [SimulinkModel](#Simulink_Model)
+- [SimulinkModel](#Simulink Model)
 
 # Introduction
 
