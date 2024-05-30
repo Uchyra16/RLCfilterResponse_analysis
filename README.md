@@ -1,6 +1,6 @@
 ## Table of Contents
 - [Introduction](#Introduction)
-- [SimulinkModel](#Simulink Model)
+- [SimulinkModel](#Simulink)
 
 # Introduction
 
@@ -34,5 +34,5 @@ Adopted component values:
 𝑅 = 100 Ω
 𝐿 = 10 mH
 C = 10nF
-# Simulink Model
+# Simulink
 ![model](https://github.com/Uchyra16/RLCfilterResponse_analysis/assets/125763535/67d89704-23b9-413f-b92a-0f7e0c206ded)
